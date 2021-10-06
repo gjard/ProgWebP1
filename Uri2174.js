@@ -36,4 +36,4 @@ for (i = 0; i < numPokemon; i++) {
         captura--
     }
 }
-console.log("Falta(m) " + captura + " pomekon(s)")
+console.log("Falta(m) " + captura + " pomekon(s).")
